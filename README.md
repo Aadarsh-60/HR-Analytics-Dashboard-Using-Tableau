@@ -11,7 +11,9 @@ The Tableau dashboard provides interactive visualizations, KPIs, and filters tha
 
 
 • Microsoft Excel (Advanced)
+
 • Tableau Desktop / Tableau Public
+
 • Basic Statistics for HR Analysis
 
 🔄 Project Workflow
@@ -53,6 +55,7 @@ This HR Analytics Dashboard demonstrates how Tableau can be used to transform ra
 
 
 <img width="1837" height="809" alt="Screenshot 2026-02-01 224109" src="https://github.com/user-attachments/assets/2332657d-21c3-437d-9c3c-436e7956494b" />
+
 
 
 
