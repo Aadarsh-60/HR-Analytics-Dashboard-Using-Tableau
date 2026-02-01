@@ -30,22 +30,34 @@ The Tableau dashboard provides interactive visualizations, KPIs, and filters tha
 1. KPI Section
 
 o Total Employee Count
+
 o Attrition Count
+
 o Attrition Rate
+
 o Active Employees
+
 o Average Age
+
 2. Attrition by Gender – Lollipop Chart
+
 3. Department-wise Attrition – Pie Chart
+
 4. Employees by Age Group – Bar Chart
+
 5. Job Satisfaction Levels – Heat / Square Chart
 
 📈 Dashboard Highlights
 
 
 • Interactive filters for deep-dive analysis
+
 • Dynamic KPIs for quick decision-making
+
 • Clean and professional dashboard layout
+
 • Visual comparison of attrition trends
+
 • Easy interpretation for non-technical users
 
 🚀 Conclusion
@@ -55,6 +67,7 @@ This HR Analytics Dashboard demonstrates how Tableau can be used to transform ra
 
 
 <img width="1837" height="809" alt="Screenshot 2026-02-01 224109" src="https://github.com/user-attachments/assets/2332657d-21c3-437d-9c3c-436e7956494b" />
+
 
 
 
