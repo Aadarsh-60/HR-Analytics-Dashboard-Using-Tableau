@@ -1,4 +1,4 @@
-LINK 
+ 
 
 ## 🔗 Live Dashboard
 [View Live Tableau Dashboard]((https://public.tableau.com/app/profile/aadarsh.vikram/viz/HRANALYTICSDASHBOARD_17699679759010/HRDashboard?publish=yes))
@@ -75,6 +75,7 @@ This HR Analytics Dashboard demonstrates how Tableau can be used to transform ra
 
 
 <img width="1837" height="809" alt="Screenshot 2026-02-01 224109" src="https://github.com/user-attachments/assets/2332657d-21c3-437d-9c3c-436e7956494b" />
+
 
 
 
